@@ -6,7 +6,7 @@ title: Doc Python
 
 Python est un language interprété simple de prise en main. De par sa syntaxe simple il apporte une clareté dans la lécture du code du moment que la personne qui écrit ce code suis les **"best practice"** dictés par [PEP 8 (Python Enhancement Proposals)](https://www.python.org/dev/peps/pep-0008/) créé par la Python Software Foundation
 
-# Syntaxe
+## Syntaxe
 
 Du fait que Python est un language interprété et que sa syntaxe obéit à moins de règles par rapport à d'autres langages, il est très facile d'écrire de petit programme. Prenons par exemple le simple fait d'affichier **"Hello World"** sur la console en Java ce la s'écrit de la manière suivante:
 	
@@ -50,7 +50,7 @@ Attention toutefois à ne pas produire des fonctions trop volumineuse afin de ne
 	sum(1 for a in queens(8))
 Dans ce cas là une seul erreur d'indentation et le scripte peut fonctionner mais ne pas faire ce que l'ont voulais
 
-# Gestionnaire de Paquet
+## Gestionnaire de Paquet
 
 Le gestionnaire de paquet python **[PyPI](https://pypi.org/)** pour **Python Package Index** est le dépôt officiel de python, contenant près de 180000 modules apportant des scripts près a l'emploie afin de simplifier l'écriture de code. Dans le cas du projet de générateur de PLD l'utilisation des module [python-asana](https://pypi.org/project/asana/#description) et [Flask](https://pypi.org/project/Flask/) simplifie grandement la communication entre le script et l'API d'asana.
 

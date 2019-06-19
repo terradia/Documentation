@@ -26,7 +26,7 @@ Nom du sprint
 	└── Carte 1
 ````
 
-# La génération
+## La génération
 
 Les diagramme sont généré grace aux informations récupéré par l'api. Chaque élément récupéré vas générer un fichier xml utilisant des balise spécifique de la librairie [JGraphX](https://www.jgraph.com/) comme la balise \<mxCell> qui sont ensuite exporter en un diagramme en format svg a l'aide d'un package nodejs qui s'appelle **[drawio-batch](https://github.com/languitar/drawio-batch)** qui est un module permettant de simuler le comportement de l'application drawio. Dans le cas du générateur de PLD on utilise que la partie import d'un fichier xml pour l'exporter en un diagramme au format svg.
 Ce code xml:
@@ -38,12 +38,12 @@ Génère une cellule comme celle-ci
 
 ![enter image description here](https://lh3.googleusercontent.com/WjFq-Yf6hPcwJ70jk632rnmw_i3JhO7ETAHP0wfg4GowEiq5ibDQgqtioMpxTpUQqw70oz62ru9y)
 
-# L'organigramme des livrables
+## L'organigramme des livrables
 
 L'organigramme des livrable après génération est représenter sous cette forme là, avec, a la racine le nom du projet, en dessous a l'horizontale ce trouvent les livrable, puis en dessous des livrables a la verticale ce trouvent les cartes associé a leurs livrables. 
 ![enter image description here](https://lh3.googleusercontent.com/ad9XQLEZ8xdxyp41MUh1nD__DT55yYegbDqF_rcZShahOCzcfc-wc9VOkH886ekH3czcFB7QuSkR)
 
-# Les cartes des livrables
+## Les cartes des livrables
 
 Chaque carte sera généré de cette manière avec, a la racine le nom du livrable généré, en dessous a l'horizontal les cartes associées a ce livrable, et en dessous de celles-ci, a la verticale se trouvent les stories associées a ces cartes
 
