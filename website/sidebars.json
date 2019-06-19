@@ -5,10 +5,12 @@
       "Recherche Flask"
     ],
     "Outils": [
-      "Générateur de PLD"
+      "Générateur de PLD",
+      "Netlify"
     ],
     "Autre": [
-     "Marketing Digital"
+     "Marketing Digital",
+     "Newsletter"
     ]
   }
 }
