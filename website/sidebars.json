@@ -1,19 +1,20 @@
 {
-  "docs": {
-    "Langage": [
-      "Doc Python",
-      "Recherche Flask"
-    ],
-    "Outils": [
-      "Générateur de PLD",
-      "Netlify"
-    ],
-    "Compte rendus de recherches": [
-     "Marketing Digital",
-     "Newsletter"
-    ],
-    "Tutoriels": [
-      "How to push on svn"
-    ]
-  }
+    "docs": {
+        "Langage": [
+            "Doc Python",
+            "Recherche Flask"
+        ],
+        "Outils": [
+            "Générateur de PLD",
+            "Netlify"
+        ],
+        "Compte rendus de recherches": [
+            "Marketing Digital",
+            "Newsletter",
+            "Compte rendu des recherches sur le design"
+        ],
+        "Tutoriels": [
+            "How to push on svn"
+        ]
+    }
 }
