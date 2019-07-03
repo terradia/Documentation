@@ -1,5 +1,5 @@
 # How to install & Push on SVN
-![Résultat de recherche d'images pour "subversion"](http://modelis-tech.com/wp-content/uploads/2016/09/Subversion_Logo.svg_.png)
+![Résultat de recherche d'images pour "subversion"](https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Subversion_Logo.svg/1200px-Subversion_Logo.svg.png)
 ## Summary of the document
 ### - Install SVN on your computer
 - Mac OS Installation
