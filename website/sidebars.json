@@ -14,7 +14,8 @@
             "Compte rendu des recherches sur le design"
         ],
         "Tutoriels": [
-            "How to push on svn"
+            "How to push on svn",
+            "Basics with Next-Js"
         ]
     }
 }
