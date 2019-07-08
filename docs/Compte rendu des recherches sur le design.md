@@ -29,6 +29,14 @@ Une idée de login page, je ne suis pas fan mais ça pourrais être une déclina
 
 Ce que j'aime d'un autre côté, c'est la présentation des tickets d'avions, on pourrais utiliser un design proche de celui-ci pour la page de livraison d'une commande, ou encore le groupe d'achat. peut être aussi le moyen de faire la validation de la récupération d'un produit chez un vendeur, ou un relais colis etc... à la TooGoodTooGo
 
+https://www.pinterest.fr/pin/690317449114631884/?utm_campaign=rdpins&e_t=72b1661378ec46a2b7b85da7b69d12ae&utm_content=690317449114631884&utm_source=31&utm_term=1&utm_medium=2004
+Dans ce mockup on vois un DarkMode, une feature intéressante pour les utilisateurs qui se servent de l'app la nuit, ou qui préfère les design plus sombre.
+La façon dont les cartes sont gérées avec le pont et la grande image en Background est super et fais très moderne.
+
+
+https://www.pinterest.fr/pin/556053885242237259/?utm_campaign=rdpins&e_t=72b1661378ec46a2b7b85da7b69d12ae&utm_content=556053885242237259&utm_source=31&utm_term=7&utm_medium=2004
+Dans ce design, la partie que j'aime bien c'est la façon de mettre en avant le produit : ici c'est une page en fullscreen avec des couleur et un dégradé sur l'image de la peinture. Quelques options sont disponibles en dessous
+
 
 ## Behance
 
