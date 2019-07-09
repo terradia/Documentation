@@ -19,7 +19,8 @@
         ],
         "Tutoriels": [
             "How to push on svn",
-            "Basics with Next-Js"
+            "Basics with Next-Js",
+            "How to push on Docusaurus"
         ]
     }
 }
