@@ -1,28 +1,31 @@
 {
-    "docs": {
-    	"Présentation": [
-	    "Terradia"
-	],
-        "Langage": [
-            "Doc Python",
-            "Recherche Flask"
-        ],
-        "Outils": [
-            "Générateur de PLD",
-            "Netlify"
-        ],
-        "Compte rendus de recherches": [
-            "Marketing Digital",
-            "Newsletter",
-            "Compte rendu des recherches sur le design",
-            "PROS & CONS GraphQL vs REST"
-        ],
-        "Tutoriels": [
-            "How to push on svn",
-            "Basics with Next-Js",
-            "How to push on Docusaurus",
-            "IAP vs Stripe",
-            "Installation and Publish the Mobile app"
-        ]
-    }
+  "docs": {
+    "Présentation": [
+      "Terradia"
+    ],
+    "README": [
+      "Readme Backend"
+    ],
+    "Langage": [
+      "Doc Python",
+      "Recherche Flask"
+    ],
+    "Outils": [
+      "Générateur de PLD",
+      "Netlify"
+    ],
+    "Compte rendus de recherches": [
+      "Marketing Digital",
+      "Newsletter",
+      "Compte rendu des recherches sur le design",
+      "PROS & CONS GraphQL vs REST"
+    ],
+    "Tutoriels": [
+      "How to push on svn",
+      "Basics with Next-Js",
+      "How to push on Docusaurus",
+      "IAP vs Stripe",
+      "Installation and Publish the Mobile app"
+    ]
+  }
 }
