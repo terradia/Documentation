@@ -1,6 +1,6 @@
 ---
-id: Documentation technique frontend producteur
-title: Documentation technique frontend producteur
+id: Documentation technique producteur
+title: Documentation technique producteur
 ---
 # Documentation technique: frontend producteur
 
