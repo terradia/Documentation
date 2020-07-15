@@ -6,13 +6,8 @@
     "README": [
       "Readme Backend"
     ],
-    "Langage": [
-      "Doc Python",
-      "Recherche Flask"
-    ],
     "Outils": [
-      "Générateur de PLD",
-      "Netlify"
+      "Générateur de PLD"
     ],
     "Compte rendus de recherches": [
       "Marketing Digital",
@@ -22,10 +17,16 @@
     ],
     "Tutoriels": [
       "How to push on svn",
-      "Basics with Next-Js",
       "How to push on Docusaurus",
       "IAP vs Stripe",
       "Installation and Publish the Mobile app"
+    ],
+    "DA1": [
+      "Documentation Producteur",
+      "Documentation Utilisateur",
+      "Documentation technique backend",
+      "Documentation technique mobile",
+      "Documentation technique producteur"
     ]
   }
 }
